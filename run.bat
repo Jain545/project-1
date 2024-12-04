@@ -1,0 +1,2 @@
+python MonkeyDetection.py
+pause
